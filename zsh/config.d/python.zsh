@@ -1,5 +1,5 @@
 # Source local .venv
 alias svenv='source venv/bin/activate'
-
-alias pip='pip3'
+alias python='python3'
 alias py='python'
+# alias pip='pip3'
