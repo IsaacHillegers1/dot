@@ -3,7 +3,7 @@
 # alias aws='~/.local/bin/aws' # Rhel8
 alias aws='/usr/local/bin/aws' # Ubuntu
 alias sso='aws sso login --profile'
-alias awsconf='code ~/.aws/config'
+alias awsconfig='code ~/.aws/config'
 alias awscred='code ~/.aws/credentials'
 alias awspy='echo "py -i {input python script here}"'
 
